@@ -10,7 +10,7 @@ class Config(object):
     password = u'07042006'
 
     # If you want to use magnet links instead of torrent files for downloading, uncomment `download_type`
-    # download_type = 'MAGNET_LINK'
+    download_type = 'MAGNET_LINK'
 
     # Configurable list of RuTracker mirrors
     # Default: official RuTracker URLs
